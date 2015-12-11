@@ -1,0 +1,10 @@
+{
+    "name": "benit/jquery-ui",
+    "description": "A composer package for jquery ui",
+    "type": "library",
+    "authors": [
+        {
+            "email": "benoit.works@gmail.com"
+        }
+    ]
+}
